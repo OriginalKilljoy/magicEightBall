@@ -1,0 +1,9 @@
+Lag din egen Magic 8 Ball der man får et tilfeldig råd av den magiske, overdimensjonerte åtteballen.
+Bruk MVC, variabler, arrays og random for å løse oppgaven.
+Ekstra: Gjør det slik at man aldri kan få det samme rådet etter hverandre.
+
+Jeg trenger:
+- En liste med råd - arrays
+- Råd skal randomizes
+- En knapp for å få råd
+- Et display for rådene
